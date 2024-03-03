@@ -1,1 +1,1 @@
-Here is the result : This file contains first text  This File contain second text
+Here is the result:This file contains first text This File contain second text
