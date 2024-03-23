@@ -9,3 +9,5 @@ res.end()
 server.listen(5000,() => {
           console.log('server is listening on port');
 });
+
+appendFile.get('/')
